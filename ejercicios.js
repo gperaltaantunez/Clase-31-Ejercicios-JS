@@ -51,3 +51,19 @@ console.log(` ${numero} * 7 = ` + Number(numero) * 7 );
 console.log(` ${numero} * 8 = ` + Number(numero) * 8 );
 console.log(` ${numero} * 9 = ` + Number(numero) * 9 );
 console.log(` ${numero} * 10 = ` + Number(numero) * 10 );
+
+/*EJERCICIO 29
+-Crear un documento con el nombre ej29.js
+-Calcular y mostrar en consola el perímetro de un cuadrado (el perímetro es simplemente cuatro veces la longitud del lado)
+-La longitud del lado es de 10*/
+
+console.log("Ejercicio 29");
+console.log(`El perímetro de un cuadrado es` + " " + 4 * 10);
+
+/*EJERICIO 30
+-Crear un documento con el nombre ej30.js
+-Calcular y mostrar en consola el área de un cuadrado (lado al cuadrado)
+-La longitud del lado es de 5*/
+
+console.log("Ejercicio 30");
+console.log(`El área de un cuadrado es`+ " " + 5 ** 2 );
