@@ -67,3 +67,36 @@ console.log(`El perímetro de un cuadrado es` + " " + 4 * 10);
 
 console.log("Ejercicio 30");
 console.log(`El área de un cuadrado es`+ " " + 5 ** 2 );
+
+/*EJERICIO 31
+-Crear un documento con el nombre ej31.js
+-Calcular y mostrar en consola el perímetro de un triangulo (sumar los lados)
+-El lado 1 es de 10
+-El lado 2 es de 20
+-El lado 3 es de 5*/
+
+console.log("Ejercicio 31");
+
+let lado1 = 10;
+let lado2 = 20;
+let lado3 = 5;
+
+resultado = lado1 + lado2 + lado3;
+
+console.log(`El perímetro de un triángulo es =` + " " + ` ${resultado} `);
+
+/*EJERCICIO 32
+-Crear un documento con el nombre ej32.js
+-Declarar la variable altura y asignar el valor 10
+-Declarar la variable base y asignar el valor 4
+-Mostrar en consola el cálculo del perímetro (suma de los lados) y el área (base por altura).*/
+
+console.log("Ejercicio 32");
+
+let altura = 10;
+let base = 4;
+
+resultado = base * altura;
+
+console.log(`El cálculo del área es =` + ` ${resultado} `);
+
